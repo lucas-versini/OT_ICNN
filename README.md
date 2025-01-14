@@ -1,4 +1,4 @@
-Code for a project on [Optimal transport mapping via input convex neural networks](https://arxiv.org/abs/1908.10962), for the MVA class on Optimal Transport.
+Code for a project on the article [Optimal transport mapping via input convex neural networks](https://arxiv.org/abs/1908.10962), for the MVA class on Optimal Transport.
 
 - `main.py`: to run the script. Contains the definition of the dataset, as well as hyperparameters for training.
 - `utils.py`: utility functions (plots, etc.).
